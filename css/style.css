@@ -1,0 +1,10 @@
+body {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 50px;
+    background-color: wheat;
+}
+
+.hidden {
+    font-size: 0;
+}
